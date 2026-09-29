@@ -1,0 +1,9 @@
+[
+  {"slug": "trend_velocity", "purpose": "measure annualized growth and identify acceleration or slowdown in an indicator by country"},
+  {"slug": "country_benchmarks", "purpose": "compare each country's latest indicator value to the dataset median and quartiles"},
+  {"slug": "coverage_audit", "purpose": "summarize year coverage and missing-year gaps by country and indicator"},
+  {"slug": "indicator_relationships", "purpose": "rank descriptive pairwise correlations between available indicators with sample sizes"},
+  {"slug": "distribution_profile", "purpose": "report robust distribution statistics and skew-aware quantiles for selected indicators"},
+  {"slug": "change_points", "purpose": "flag unusually large year-over-year changes using robust median absolute deviation"},
+  {"slug": "peer_groups", "purpose": "group countries by latest values into transparent quartile-based peer bands"}
+]
