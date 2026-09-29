@@ -20,7 +20,7 @@ The dashboard follows five World Bank indicators across eight countries. The dat
 ```text
 World Bank API --weekly--> validated CSV --> Streamlit dashboard
                                                 |-- Plotly exploration
-User question --> OpenAI Responses API --> bounded tool calls --> pandas results --> explanation
+User question --> OpenAI or local Ollama --> bounded tool calls --> pandas results --> explanation
                                                 |-- pluggable insights
 Daily schedule --> enhancement queue --> isolated extension --> syntax check --> draft PR
 ```
@@ -38,7 +38,15 @@ copy .env.example .env  # PowerShell; edit .env and add your own API key
 streamlit run app.py
 ```
 
-The first run fetches the public World Bank data. The OpenAI API key is only needed for the natural-language agent; charts, snapshots, and deterministic insight modules work without it. Keep `.env` private. API use may incur charges under your provider account.
+The first run fetches the public World Bank data. Charts, snapshots, and deterministic insight modules need no model. For natural-language analysis, the app uses OpenAI when `OPENAI_API_KEY` is set; without one, it connects to a local Ollama model. Keep `.env` private. OpenAI API use may incur charges under your provider account.
+
+### Run the GenAI analyst without an API key
+
+1. Install Ollama for Windows from [ollama.com/download/windows](https://ollama.com/download/windows) (Windows 10 or later).
+2. In PowerShell, download a tool-calling model: `ollama pull qwen3:4b`.
+3. Keep Ollama running, then start InsightPilot with `streamlit run app.py`.
+
+The app sends prompts and tool results to the Ollama service on your computer at `http://localhost:11434`. Change `OLLAMA_BASE_URL` or `OLLAMA_MODEL` in `.env` to use another local Ollama model. The model chooses among the same bounded pandas analysis tools; it cannot run arbitrary Python.
 
 To manually refresh the data, click **Refresh data now** in the sidebar or run:
 
@@ -55,18 +63,18 @@ GitHub Actions schedules use UTC and can also be started with **Run workflow**:
 | Workflow | Schedule | Result |
 |---|---|---|
 | Weekly public data refresh | Monday, 02:00 UTC (07:30 IST) | Fetches the latest available World Bank observations and commits the CSV only when it changes |
-| Daily agentic code evolution | Every day, 02:30 UTC (08:00 IST) | Generates one queued extension and opens a draft PR after a syntax check |
+| Daily agentic code evolution | Every day, 02:30 UTC (08:00 IST) | Opens a draft PR for one queued analytics extension after validation |
 
 GitHub Actions can delay scheduled runs during busy periods. These are best-effort schedules, not guaranteed exact-time alerts.
 
 ### Enable the daily code agent
 
-1. Add a repository Actions secret named `OPENAI_API_KEY` with an API key you control. Never put the key in source code or commit it.
-2. In repository **Settings → Actions → General → Workflow permissions**, allow GitHub Actions to create pull requests. The workflow's token is scoped to contents and pull requests.
-3. The workflow reads `config/daily_enhancements.json`. It proposes one new file under `src/insight_pilot/extensions/` and opens a draft pull request.
-4. Review each generated module before merging. Daily modules are timestamped and loaded as isolated plug-ins. The workflow validates syntax and restricts imports/calls, but generated code still needs human review. It does not merge PRs or modify other files.
+1. The repository Actions permission to create pull requests must be enabled. The workflow token is scoped to contents and pull requests.
+2. The workflow reads `config/daily_enhancements.json`. It opens a draft PR for one new timestamped extension under `src/insight_pilot/extensions/` each day.
+3. With an `OPENAI_API_KEY` secret, the extension is AI-generated. Without it, the job uses a curated deterministic implementation from `daily_features.py`; daily code proposals still run without paid API access.
+4. Review each module before merging. The workflow validates syntax and restricts imports/calls. It does not merge PRs or modify other files on `main`.
 
-Without the secret or the repository permission, the scheduled code proposal will not complete. The weekly public-data workflow does not require an API key.
+The daily hosted workflow cannot use a local model running on your PC. Its no-key fallback uses the checked-in feature library, while the interactive app can use your local Ollama model. The weekly public-data workflow also needs no API key.
 
 ## Data and analysis details
 
@@ -81,7 +89,7 @@ app.py                              Streamlit interface
 src/insight_pilot/agent.py          OpenAI tool-calling loop
 src/insight_pilot/analytics.py      Deterministic analytics tools
 src/insight_pilot/data.py           World Bank fetch and validation
-src/insight_pilot/extensions/       Pluggable deterministic insights
+src/insight_pilot/extensions/       Pluggable insights + no-key feature library
 scripts/daily_agent.py              Bounded code-proposal generator
 config/daily_enhancements.json      Daily feature queue
 .github/workflows/                  Weekly data + daily code PR schedules

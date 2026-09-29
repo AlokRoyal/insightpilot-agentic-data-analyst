@@ -20,28 +20,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: python -m pip install openai
-      - name: Check for the API secret
-        id: api-key
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          if [ -n "$OPENAI_API_KEY" ]; then
-            echo "available=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "available=false" >> "$GITHUB_OUTPUT"
-            echo "OPENAI_API_KEY is not configured; skipping the daily proposal."
-          fi
       - name: Generate one bounded extension proposal
-        if: steps.api-key.outputs.available == 'true'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-5.4-mini
         run: python scripts/daily_agent.py
       - name: Validate Python syntax
-        if: steps.api-key.outputs.available == 'true'
         run: python -m compileall -q src/insight_pilot/extensions
       - name: Open a draft pull request
-        if: steps.api-key.outputs.available == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           UPDATE_DATE: ${{ github.run_id }}
