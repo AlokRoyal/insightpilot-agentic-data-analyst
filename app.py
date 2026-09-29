@@ -78,7 +78,7 @@ with left:
 with right:
     st.subheader("Ask the analyst")
     st.write("Questions are answered with tool-calculated results, not free-form code execution.")
-    st.caption("Provider: OpenAI API key when configured; otherwise local Ollama (no API key).")
+    st.caption("Uses OpenAI when configured, local Ollama when available, and built-in analysis tools otherwise.")
     examples = [
         "How has GDP per capita in India changed since 2000?",
         "Compare internet use across India, Bangladesh, and Indonesia in the latest year with coverage.",

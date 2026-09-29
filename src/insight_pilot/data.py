@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import pandas as pd
@@ -31,36 +32,50 @@ INDICATORS = {
 
 
 def fetch_world_bank(start_year: int = 2000, end_year: int | None = None) -> pd.DataFrame:
-    """Fetch five indicators for eight countries; return tidy, validated rows."""
+    """Fetch five indicators for eight countries in parallel, then return tidy rows."""
     end_year = end_year or datetime.now(timezone.utc).year
-    rows: list[dict[str, object]] = []
-    session = requests.Session()
-    session.headers.update({"User-Agent": "InsightPilot-portfolio/1.0"})
-    for country_code, country_name in COUNTRIES.items():
-        for indicator_name, indicator_code in INDICATORS.items():
-            url = (
-                f"https://api.worldbank.org/v2/country/{country_code}/indicator/"
-                f"{indicator_code}?format=json&per_page=100&date={start_year}:{end_year}"
-            )
-            response = session.get(url, timeout=30)
-            response.raise_for_status()
-            payload = response.json()
-            if not isinstance(payload, list) or len(payload) < 2 or payload[1] is None:
+    country_codes = ";".join(COUNTRIES)
+
+    def fetch_indicator(indicator_name: str, indicator_code: str) -> list[dict[str, object]]:
+        url = (
+            f"https://api.worldbank.org/v2/country/{country_codes}/indicator/"
+            f"{indicator_code}?format=json&per_page=20000&date={start_year}:{end_year}"
+        )
+        response = requests.get(
+            url,
+            headers={"User-Agent": "InsightPilot-portfolio/1.0"},
+            timeout=(5, 30),
+        )
+        response.raise_for_status()
+        payload = response.json()
+        if not isinstance(payload, list) or len(payload) < 2 or payload[1] is None:
+            return []
+        result = []
+        for item in payload[1]:
+            value = item.get("value")
+            country_code = item.get("countryiso3code")
+            if value is None or country_code not in COUNTRIES:
                 continue
-            for item in payload[1]:
-                value = item.get("value")
-                if value is None:
-                    continue
-                rows.append(
-                    {
-                        "country_code": country_code,
-                        "country": country_name,
-                        "year": int(item["date"]),
-                        "indicator": indicator_name,
-                        "indicator_code": indicator_code,
-                        "value": float(value),
-                    }
-                )
+            result.append(
+                {
+                    "country_code": country_code,
+                    "country": COUNTRIES[country_code],
+                    "year": int(item["date"]),
+                    "indicator": indicator_name,
+                    "indicator_code": indicator_code,
+                    "value": float(value),
+                }
+            )
+        return result
+
+    rows: list[dict[str, object]] = []
+    with ThreadPoolExecutor(max_workers=len(INDICATORS)) as pool:
+        futures = [
+            pool.submit(fetch_indicator, indicator_name, indicator_code)
+            for indicator_name, indicator_code in INDICATORS.items()
+        ]
+        for future in as_completed(futures):
+            rows.extend(future.result())
     if not rows:
         raise RuntimeError("The World Bank API returned no observations.")
     frame = pd.DataFrame(rows).drop_duplicates(

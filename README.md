@@ -38,7 +38,7 @@ copy .env.example .env  # PowerShell; edit .env and add your own API key
 streamlit run app.py
 ```
 
-The first run fetches the public World Bank data. Charts, snapshots, and deterministic insight modules need no model. For natural-language analysis, the app uses OpenAI when `OPENAI_API_KEY` is set; without one, it connects to a local Ollama model. Keep `.env` private. OpenAI API use may incur charges under your provider account.
+The first run fetches the public World Bank data using five parallel multi-country requests. The validated CSV is cached locally for subsequent starts. Charts, snapshots, and deterministic insight modules need no model. For natural-language analysis, the app uses OpenAI when `OPENAI_API_KEY` is set; without one, it connects to a local Ollama model when available and falls back to deterministic tools for common trend, comparison, summary, and correlation questions. Keep `.env` private. OpenAI API use may incur charges under your provider account.
 
 ### Run the GenAI analyst without an API key
 

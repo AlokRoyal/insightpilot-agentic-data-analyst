@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from typing import Any
 
 import pandas as pd
@@ -154,12 +155,74 @@ def _ask_local_agent(question: str, frame: pd.DataFrame, model: str | None = Non
                 messages.append({"role": "tool", "tool_name": name, "content": result})
         raise RuntimeError("The local agent reached its tool-call limit. Try a narrower question.")
     except requests.ConnectionError as exc:
-        raise RuntimeError(
-            "No OpenAI API key is configured and the local Ollama service is unavailable. "
-            "Install Ollama, run `ollama pull qwen3:4b`, then restart this app."
-        ) from exc
+        return _deterministic_fallback(question, frame)
     except requests.Timeout as exc:
         raise RuntimeError("The local model took too long to respond. Try a smaller model or a narrower question.") from exc
     except requests.HTTPError as exc:
-        detail = "The requested Ollama model may not be downloaded. Run `ollama pull qwen3:4b` and retry."
-        raise RuntimeError(f"Ollama request failed. {detail}") from exc
+        return _deterministic_fallback(question, frame)
+
+
+def _question_indicators(question: str, frame: pd.DataFrame) -> list[str]:
+    text = question.casefold()
+    aliases = {
+        "GDP per capita": ("gdp per capita", "gdp"),
+        "Population": ("population",),
+        "Life expectancy": ("life expectancy",),
+        "Internet": ("internet use", "internet usage", "internet"),
+        "Unemployment": ("unemployment",),
+    }
+    matched = []
+    for indicator in frame["indicator"].dropna().unique():
+        label = str(indicator)
+        base = label.split("(", 1)[0].casefold().strip()
+        terms = aliases.get(next((key for key in aliases if key.casefold() in base), ""), ())
+        if any(term in text for term in terms) or base in text:
+            matched.append(label)
+    return matched
+
+
+def _deterministic_fallback(question: str, frame: pd.DataFrame) -> str:
+    """Answer common analytics questions with tools when neither model is available."""
+    text = question.casefold()
+    indicators = _question_indicators(question, frame)
+    countries = [
+        str(country) for country in frame["country"].dropna().unique()
+        if re.search(rf"(?<!\w){re.escape(str(country).casefold())}(?!\w)", text)
+    ]
+    years = [int(value) for value in re.findall(r"\b(?:19|20)\d{2}\b", text)]
+    result: str
+    mode_note = (
+        "No model is connected, so I used a deterministic analytics tool for this answer. "
+        "Install Ollama and download qwen3:4b for natural-language agent planning.\n\n"
+    )
+
+    if any(word in text for word in ("correlation", "correlate", "associated", "relationship")):
+        if len(indicators) >= 2:
+            result = analytics.correlation_check(frame, indicators[0], indicators[1], years[0] if years else None)
+        else:
+            return mode_note + "For a correlation, name two measures, for example: `Is internet use associated with GDP per capita?`"
+    elif any(word in text for word in ("compare", "comparison", "across", "versus", " vs ")):
+        if len(indicators) < 1 or len(countries) < 2:
+            return mode_note + "For a comparison, name one measure and at least two countries."
+        indicator = indicators[0]
+        if years:
+            year = years[0]
+        else:
+            subset = frame[(frame["indicator"] == indicator) & frame["country"].isin(countries)]
+            coverage = subset.groupby("year")["country"].nunique()
+            common_years = coverage[coverage == len(set(countries))].index
+            if len(common_years) == 0:
+                return mode_note + "Those countries have no shared year of coverage for that measure. Try a specific year or a different measure."
+            year = int(max(common_years))
+        result = analytics.compare_countries(frame, indicator, year, countries)
+    elif any(word in text for word in ("change", "changed", "trend", "since", "growth")):
+        if not indicators or not countries:
+            return mode_note + "For a trend, name one measure and one country, for example: `How has GDP per capita in India changed since 2000?`"
+        start_year = years[0] if years else None
+        result = analytics.trend_indicator(frame, indicators[0], countries[0], start_year=start_year)
+    elif indicators:
+        result = analytics.summarize_indicator(frame, indicators[0], countries or None)
+    else:
+        return mode_note + "I can summarize a measure, calculate a country's trend, compare countries, or check a correlation."
+
+    return mode_note + "```json\n" + json.dumps(json.loads(result), indent=2) + "\n```"
