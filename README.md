@@ -1,8 +1,12 @@
-# InsightPilot
+# InsightPilot | Agentic Data Analyst
 
-### Agentic data analysis with bounded tools, public data, and reviewable daily evolution
+![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-InsightPilot is a portfolio project that turns natural-language questions into reproducible analyses. A language model selects from a small set of explicit analytics tools; Python and pandas calculate the numbers. The model explains those results with coverage notes and caveats. It never executes model-written Python in the chat workflow.
+**Explore public data, ask questions in plain language, and get answers grounded in reproducible analytics.**
+
+InsightPilot is an agentic analytics portfolio project. When a model is available, it plans an analysis by selecting from explicit tools; Python and pandas calculate the numbers. The model explains the results with coverage notes and caveats. The chat workflow never executes model-written Python. If neither OpenAI nor local Ollama is configured, common questions still work through a deterministic question router.
 
 The dashboard follows five World Bank indicators across eight countries. The dataset refreshes weekly. A separate daily code agent can propose one small analytics extension as a **draft pull request**; it cannot merge or push generated code to `main`.
 
@@ -14,6 +18,16 @@ The dashboard follows five World Bank indicators across eight countries. The dat
 - **Extensible analytics:** insight modules share a `run(frame) -> dict` interface and are loaded independently.
 - **Guardrailed code evolution:** a daily enhancement queue creates isolated modules, validates Python syntax and opens a draft PR for human review.
 - **Transparent limitations:** missing values remain missing, indicator years can differ, and correlations are not presented as causal effects.
+
+## Try it
+
+Example questions supported by the built-in analysis tools:
+
+- How has GDP per capita in India changed since 2000?
+- Compare internet use across India, Bangladesh, and Indonesia in the latest shared year.
+- Is internet use associated with GDP per capita across countries? What are the limitations?
+
+The dashboard displays the observation count, country and indicator coverage, a selectable time-series chart, a data preview, caveats, and a data-quality summary.
 
 ## Architecture
 
@@ -34,7 +48,7 @@ python -m venv .venv
 # Windows PowerShell: .venv\Scripts\Activate.ps1
 # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-copy .env.example .env  # PowerShell; edit .env and add your own API key
+copy .env.example .env  # optional; configure a model provider if available
 streamlit run app.py
 ```
 
@@ -46,7 +60,7 @@ The first run fetches the public World Bank data using five parallel multi-count
 2. In PowerShell, download a tool-calling model: `ollama pull qwen3:4b`.
 3. Keep Ollama running, then start InsightPilot with `streamlit run app.py`.
 
-The app sends prompts and tool results to the Ollama service on your computer at `http://localhost:11434`. Change `OLLAMA_BASE_URL` or `OLLAMA_MODEL` in `.env` to use another local Ollama model. The model chooses among the same bounded pandas analysis tools; it cannot run arbitrary Python.
+The app sends prompts and tool results to the Ollama service on your computer at `http://localhost:11434`. Change `OLLAMA_BASE_URL` or `OLLAMA_MODEL` in `.env` to use another local Ollama model. The model chooses among the same bounded pandas analysis tools; it cannot run arbitrary Python. Without a model, the deterministic router supports common summaries, trends, comparisons, and correlations and labels its answers accordingly.
 
 To manually refresh the data, click **Refresh data now** in the sidebar or run:
 
@@ -85,10 +99,10 @@ The agent exposes four bounded functions: summarize an indicator, calculate a co
 ## Project layout
 
 ```text
-app.py                              Streamlit interface
-src/insight_pilot/agent.py          OpenAI tool-calling loop
+app.py                              Streamlit dashboard
+src/insight_pilot/agent.py          OpenAI/Ollama agent and deterministic fallback
 src/insight_pilot/analytics.py      Deterministic analytics tools
-src/insight_pilot/data.py           World Bank fetch and validation
+src/insight_pilot/data.py           Parallel World Bank fetch and validation
 src/insight_pilot/extensions/       Pluggable insights + no-key feature library
 scripts/daily_agent.py              Bounded code-proposal generator
 config/daily_enhancements.json      Daily feature queue
