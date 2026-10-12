@@ -1,0 +1,1027 @@
+country_code,country,year,indicator,indicator_code,value
+BGD,Bangladesh,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,396.670730249751
+BGD,Bangladesh,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,394.65641001891
+BGD,Bangladesh,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,393.886422327628
+BGD,Bangladesh,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,426.74880754362
+BGD,Bangladesh,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,455.614016909798
+BGD,Bangladesh,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,480.08585075452
+BGD,Bangladesh,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,490.388026533289
+BGD,Bangladesh,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,537.955492792911
+BGD,Bangladesh,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,613.06204104124
+BGD,Bangladesh,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,679.211477428056
+BGD,Bangladesh,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,757.385280361508
+BGD,Bangladesh,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,837.336944695647
+BGD,Bangladesh,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,859.680536375497
+BGD,Bangladesh,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,958.262989798283
+BGD,Bangladesh,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,1094.46199702838
+BGD,Bangladesh,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,1224.38647668165
+BGD,Bangladesh,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,1649.28380858601
+BGD,Bangladesh,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,1811.08221668646
+BGD,Bangladesh,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,1965.24372731467
+BGD,Bangladesh,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,2129.79896954606
+BGD,Bangladesh,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,2248.85078828233
+BGD,Bangladesh,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,2482.84917843357
+BGD,Bangladesh,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,2716.48592780431
+BGD,Bangladesh,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,2551.01773827307
+BGD,Bangladesh,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,2593.41611680774
+BGD,Bangladesh,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,2597.34352335275
+BRA,Brazil,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,3766.54811466032
+BRA,Brazil,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,3176.28935747524
+BRA,Brazil,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,2855.94018885769
+BRA,Brazil,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,3090.6070097455
+BRA,Brazil,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,3663.823188064
+BRA,Brazil,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,4827.78173074714
+BRA,Brazil,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,5934.14470924968
+BRA,Brazil,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,7409.69130673473
+BRA,Brazil,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,8908.33176538648
+BRA,Brazil,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,8678.6592244676
+BRA,Brazil,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,11403.2821278747
+BRA,Brazil,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,13396.6243562986
+BRA,Brazil,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,12521.7213519966
+BRA,Brazil,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,12458.8912138813
+BRA,Brazil,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,12274.9939689363
+BRA,Brazil,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,8936.19661712113
+BRA,Brazil,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,8836.28652735657
+BRA,Brazil,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,10080.5092819305
+BRA,Brazil,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,9300.66164923219
+BRA,Brazil,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,9029.83326681073
+BRA,Brazil,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,7074.19378337644
+BRA,Brazil,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,7972.5366498646
+BRA,Brazil,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,9281.33334441234
+BRA,Brazil,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,10377.5892792557
+BRA,Brazil,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,10310.5486973693
+BRA,Brazil,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,10713.2856869511
+CHN,China,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,969.199513696287
+CHN,China,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,1065.40597574519
+CHN,China,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,1163.55957673426
+CHN,China,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,1306.97245408557
+CHN,China,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,1530.92726215723
+CHN,China,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,1777.64496828464
+CHN,China,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,2129.25696999613
+CHN,China,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,2734.72709877693
+CHN,China,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,3523.44302065213
+CHN,China,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,3898.24459158811
+CHN,China,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,4629.24551710077
+CHN,China,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,5703.76027973346
+CHN,China,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,6405.0574241349
+CHN,China,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,7147.03518622344
+CHN,China,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,7781.06597484974
+CHN,China,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,8175.33285077393
+CHN,China,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,8254.86859320357
+CHN,China,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,8979.67652709856
+CHN,China,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,10085.6638148819
+CHN,China,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,10342.9009524335
+CHN,China,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,10627.4637989619
+CHN,China,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,12887.4357242941
+CHN,China,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,12970.6056414327
+CHN,China,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,12951.1782397043
+CHN,China,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,13293.1162269366
+CHN,China,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,13861.970224368
+DEU,Germany,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,23925.8559901991
+DEU,Germany,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,23878.3641471651
+DEU,Germany,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,25486.5942008748
+DEU,Germany,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,30711.1022511331
+DEU,Germany,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,34566.7359143735
+DEU,Germany,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,35084.4363546269
+DEU,Germany,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,36980.3349948954
+DEU,Germany,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,42350.9217211489
+DEU,Germany,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,46379.1647953479
+DEU,Germany,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,42471.8868625226
+DEU,Germany,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,42396.9665976293
+DEU,Germany,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,47630.9761883572
+DEU,Germany,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,44718.0159214069
+DEU,Germany,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,47206.8353514242
+DEU,Germany,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,48959.5991203133
+DEU,Germany,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,41929.7549110722
+DEU,Germany,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,42948.9381932694
+DEU,Germany,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,45553.9341495339
+DEU,Germany,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,48916.1686612154
+DEU,Germany,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,47656.199739747
+DEU,Germany,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,47394.8734504469
+DEU,Germany,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,52349.2459994422
+DEU,Germany,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,50506.5179638543
+DEU,Germany,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,54776.7668235491
+DEU,Germany,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,56103.7323182554
+DEU,Germany,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,60496.4350820414
+IND,India,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,442.750218937263
+IND,India,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,450.357900514128
+IND,India,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,469.149928973927
+IND,India,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,544.143133545002
+IND,India,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,624.258826510066
+IND,India,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,710.488080408949
+IND,India,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,801.668353659022
+IND,India,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,1021.88707706826
+IND,India,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,992.519584923828
+IND,India,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,1094.94974598436
+IND,India,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,1347.51939071367
+IND,India,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,1445.46127486037
+IND,India,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,1429.32199520032
+IND,India,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,1432.84397512195
+IND,India,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,1553.88396075118
+IND,India,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,1583.99815907985
+IND,India,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,1707.50892912243
+IND,India,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,1950.10468280866
+IND,India,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,1966.25455171679
+IND,India,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,2041.42863698585
+IND,India,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,1907.04251637669
+IND,India,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,2239.61384367482
+IND,India,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,2279.98145719369
+IND,India,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,2434.44826340989
+IND,India,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,2591.9916607122
+IND,India,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,2702.47987141553
+IDN,Indonesia,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,763.711124950924
+IDN,Indonesia,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,732.307093405708
+IDN,Indonesia,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,881.002913569131
+IDN,Indonesia,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,1043.2105838671
+IDN,Indonesia,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,1126.84004447173
+IDN,Indonesia,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,1238.21447629488
+IDN,Indonesia,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,1558.31562847163
+IDN,Indonesia,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,1823.21976255073
+IDN,Indonesia,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,2124.55483920618
+IDN,Indonesia,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,2218.48541852977
+IDN,Indonesia,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,3065.68348377765
+IDN,Indonesia,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,3579.46442466152
+IDN,Indonesia,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,3632.27254030331
+IDN,Indonesia,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,3566.60284506078
+IDN,Indonesia,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,3441.06808464008
+IDN,Indonesia,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,3288.22269725538
+IDN,Indonesia,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,3521.46943457574
+IDN,Indonesia,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,3798.88326174526
+IDN,Indonesia,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,3860.95353090726
+IDN,Indonesia,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,4106.94856160358
+IDN,Indonesia,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,3853.70288774146
+IDN,Indonesia,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,4287.17313995098
+IDN,Indonesia,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,4730.83484836107
+IDN,Indonesia,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,4876.2992959843
+IDN,Indonesia,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,4925.43644992666
+IDN,Indonesia,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,5059.62596411213
+JPN,Japan,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,39752.937397755
+JPN,Japan,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,34910.166403687
+JPN,Japan,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,33315.9165174962
+JPN,Japan,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,35808.6816792388
+JPN,Japan,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,38677.5708064787
+JPN,Japan,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,38158.6758263963
+JPN,Japan,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,36354.4271646349
+JPN,Japan,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,36129.9535132925
+JPN,Japan,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,40294.2081309702
+JPN,Japan,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,41678.1783063195
+JPN,Japan,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,45378.1378109399
+JPN,Japan,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,49122.077634247
+JPN,Japan,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,49626.6830327571
+JPN,Japan,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,41369.1948479498
+JPN,Japan,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,39172.8471161948
+JPN,Japan,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,35664.6446110613
+JPN,Japan,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,40214.9688631562
+JPN,Japan,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,39679.8635262948
+JPN,Japan,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,40645.478086519
+JPN,Japan,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,41424.8655601543
+JPN,Japan,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,41098.9739004553
+JPN,Japan,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,41580.739040705
+JPN,Japan,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,35548.2645222433
+JPN,Japan,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,35215.003535366
+JPN,Japan,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,33797.1014287876
+JPN,Japan,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,35951.0449549304
+USA,United States,2000,GDP per capita (current US$),NY.GDP.PCAP.CD,36329.9702595751
+USA,United States,2001,GDP per capita (current US$),NY.GDP.PCAP.CD,37133.6203973517
+USA,United States,2002,GDP per capita (current US$),NY.GDP.PCAP.CD,37997.7424300242
+USA,United States,2003,GDP per capita (current US$),NY.GDP.PCAP.CD,39490.3023903176
+USA,United States,2004,GDP per capita (current US$),NY.GDP.PCAP.CD,41724.6411982614
+USA,United States,2005,GDP per capita (current US$),NY.GDP.PCAP.CD,44123.3996470026
+USA,United States,2006,GDP per capita (current US$),NY.GDP.PCAP.CD,46301.9876485519
+USA,United States,2007,GDP per capita (current US$),NY.GDP.PCAP.CD,48050.227412195
+USA,United States,2008,GDP per capita (current US$),NY.GDP.PCAP.CD,48570.0594269601
+USA,United States,2009,GDP per capita (current US$),NY.GDP.PCAP.CD,47194.9500893872
+USA,United States,2010,GDP per capita (current US$),NY.GDP.PCAP.CD,48642.6312088213
+USA,United States,2011,GDP per capita (current US$),NY.GDP.PCAP.CD,50024.8812320773
+USA,United States,2012,GDP per capita (current US$),NY.GDP.PCAP.CD,51708.3940614082
+USA,United States,2013,GDP per capita (current US$),NY.GDP.PCAP.CD,53297.3862901595
+USA,United States,2014,GDP per capita (current US$),NY.GDP.PCAP.CD,55153.3940182967
+USA,United States,2015,GDP per capita (current US$),NY.GDP.PCAP.CD,56849.4697923159
+USA,United States,2016,GDP per capita (current US$),NY.GDP.PCAP.CD,57976.628204291
+USA,United States,2017,GDP per capita (current US$),NY.GDP.PCAP.CD,60047.7190728307
+USA,United States,2018,GDP per capita (current US$),NY.GDP.PCAP.CD,62875.6661382728
+USA,United States,2019,GDP per capita (current US$),NY.GDP.PCAP.CD,65227.9565911038
+USA,United States,2020,GDP per capita (current US$),NY.GDP.PCAP.CD,64465.2971415748
+USA,United States,2021,GDP per capita (current US$),NY.GDP.PCAP.CD,71441.2319805947
+USA,United States,2022,GDP per capita (current US$),NY.GDP.PCAP.CD,78008.6895811877
+USA,United States,2023,GDP per capita (current US$),NY.GDP.PCAP.CD,82586.7847707894
+USA,United States,2024,GDP per capita (current US$),NY.GDP.PCAP.CD,86169.6641581917
+USA,United States,2025,GDP per capita (current US$),NY.GDP.PCAP.CD,90026.5163005744
+BGD,Bangladesh,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0710394230507683
+BGD,Bangladesh,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.129807973947512
+BGD,Bangladesh,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.13992028850905
+BGD,Bangladesh,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.163877665498048
+BGD,Bangladesh,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.199036333744363
+BGD,Bangladesh,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.241600007
+BGD,Bangladesh,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.0
+BGD,Bangladesh,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.799999952
+BGD,Bangladesh,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.5
+BGD,Bangladesh,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.099999905
+BGD,Bangladesh,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.700000048
+BGD,Bangladesh,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.5
+BGD,Bangladesh,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.0
+BGD,Bangladesh,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.63
+BGD,Bangladesh,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.052900314
+BGD,Bangladesh,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,12.36880016
+BGD,Bangladesh,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.89909935
+BGD,Bangladesh,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.5
+BGD,Bangladesh,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.56509972
+BGD,Bangladesh,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.38310051
+BGD,Bangladesh,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,36.10910034
+BGD,Bangladesh,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,38.91744466
+BGD,Bangladesh,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,41.61650085
+BGD,Bangladesh,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,44.50274195
+BGD,Bangladesh,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,53.42171316
+BRA,Brazil,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.87068515854108
+BRA,Brazil,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.52849486902851
+BRA,Brazil,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.14942508560748
+BRA,Brazil,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.2075861035303
+BRA,Brazil,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,19.073672274442
+BRA,Brazil,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.022747248827
+BRA,Brazil,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,28.17840004
+BRA,Brazil,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.87999916
+BRA,Brazil,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,33.83
+BRA,Brazil,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.22
+BRA,Brazil,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,40.65
+BRA,Brazil,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,45.69
+BRA,Brazil,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,48.56
+BRA,Brazil,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,51.04
+BRA,Brazil,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,54.5510018796392
+BRA,Brazil,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.3279517340924
+BRA,Brazil,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,60.8725400681261
+BRA,Brazil,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,67.4712845236305
+BRA,Brazil,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.4342825404361
+BRA,Brazil,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.9124399133589
+BRA,Brazil,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.34269353
+BRA,Brazil,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.68989314
+BRA,Brazil,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.52775094
+BRA,Brazil,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.15060238
+BRA,Brazil,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.46347227
+CHN,China,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.77591320677415
+CHN,China,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.63965021485872
+CHN,China,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.59570433077551
+CHN,China,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.2
+CHN,China,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.3
+CHN,China,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.52325700269541
+CHN,China,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.5231526193851
+CHN,China,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.0
+CHN,China,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.6
+CHN,China,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,28.9
+CHN,China,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.3
+CHN,China,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,38.3
+CHN,China,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,42.30009842
+CHN,China,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,45.79999924
+CHN,China,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.90000153
+CHN,China,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,50.29999924
+CHN,China,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,53.2
+CHN,China,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,54.3
+CHN,China,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,65.35839844
+CHN,China,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.080881297515
+CHN,China,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.05275998
+CHN,China,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.05323517
+CHN,China,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.61131603
+CHN,China,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.6
+CHN,China,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.0
+CHN,China,2025,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.6
+DEU,Germany,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.2163466048889
+DEU,Germany,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,31.650939416316
+DEU,Germany,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,48.82
+DEU,Germany,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.9
+DEU,Germany,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.73
+DEU,Germany,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.71
+DEU,Germany,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.16
+DEU,Germany,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.16
+DEU,Germany,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.0
+DEU,Germany,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.0
+DEU,Germany,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.0
+DEU,Germany,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.26999953602
+DEU,Germany,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.3499984738392
+DEU,Germany,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.17
+DEU,Germany,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.1937006578756
+DEU,Germany,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.5897993525767
+DEU,Germany,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.1652066441212
+DEU,Germany,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.3941537010844
+DEU,Germany,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.037112092841
+DEU,Germany,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.1345169091916
+DEU,Germany,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.81294133
+DEU,Germany,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.43060973
+DEU,Germany,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.62984383
+DEU,Germany,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.4763763
+DEU,Germany,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.49999579
+IND,India,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.527532449930946
+IND,India,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.660146377009928
+IND,India,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.53787558175083
+IND,India,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.68648997063625
+IND,India,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.97613649190559
+IND,India,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.388099909
+IND,India,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.80549986534254
+IND,India,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.95
+IND,India,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.38
+IND,India,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.12
+IND,India,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.5
+IND,India,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.07
+IND,India,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.10000038
+IND,India,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,12.30000019
+IND,India,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.5
+IND,India,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.89999962
+IND,India,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.5
+IND,India,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,18.20000076
+IND,India,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,20.0813000379384
+IND,India,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,29.52350044
+IND,India,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,43.40544313
+IND,India,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.2580986
+IND,India,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.9
+IND,India,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,60.25230026
+IND,India,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.9434967
+IND,India,2025,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.0
+IDN,Indonesia,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.925563864466858
+IDN,Indonesia,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.01861385948459
+IDN,Indonesia,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.13413573295808
+IDN,Indonesia,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.38701977959476
+IDN,Indonesia,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.60028587633414
+IDN,Indonesia,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.60202476259646
+IDN,Indonesia,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.76481313366657
+IDN,Indonesia,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.78627472934199
+IDN,Indonesia,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.917500019
+IDN,Indonesia,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.92
+IDN,Indonesia,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.92
+IDN,Indonesia,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,12.28
+IDN,Indonesia,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.52
+IDN,Indonesia,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.94
+IDN,Indonesia,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,17.1431598350566
+IDN,Indonesia,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.062742603379
+IDN,Indonesia,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.447353701827
+IDN,Indonesia,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,32.335806250688
+IDN,Indonesia,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.9046386385762
+IDN,Indonesia,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.6906489788375
+IDN,Indonesia,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,53.72649449
+IDN,Indonesia,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,62.10447842
+IDN,Indonesia,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,66.48461277
+IDN,Indonesia,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,69.20836554
+IDN,Indonesia,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.78075544
+JPN,Japan,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,29.9907403589142
+JPN,Japan,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,38.5320608612719
+JPN,Japan,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,46.5942011179917
+JPN,Japan,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,48.4352658899653
+JPN,Japan,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,62.3939296327259
+JPN,Japan,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,66.9210661042901
+JPN,Japan,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.6852703213795
+JPN,Japan,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.3
+JPN,Japan,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.4
+JPN,Japan,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.0
+JPN,Japan,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.21
+JPN,Japan,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.0541135244739
+JPN,Japan,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.4964
+JPN,Japan,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.219428911
+JPN,Japan,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.1068330166075
+JPN,Japan,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.0580283929962
+JPN,Japan,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.1827212821617
+JPN,Japan,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.7265472366635
+JPN,Japan,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.7463508901772
+JPN,Japan,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.7303978145525
+JPN,Japan,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.21945812
+JPN,Japan,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.91407928
+JPN,Japan,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.92343147
+JPN,Japan,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.00990295
+JPN,Japan,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.54153081
+USA,United States,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,43.0791626375201
+USA,United States,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.0808315896951
+USA,United States,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.7854038836952
+USA,United States,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,61.6971171244207
+USA,United States,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.7582564759896
+USA,United States,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,67.9681015
+USA,United States,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.93119812
+USA,United States,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.0
+USA,United States,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.0
+USA,United States,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.0
+USA,United States,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.69
+USA,United States,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,69.7294607619268
+USA,United States,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.7
+USA,United States,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.4
+USA,United States,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.0
+USA,United States,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.5542024462761
+USA,United States,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.5444212887222
+USA,United States,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.2748891687657
+USA,United States,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.498903165152
+USA,United States,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.4302848575712
+USA,United States,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.34470367
+USA,United States,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.2684021
+USA,United States,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.72850037
+USA,United States,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.52559662
+USA,United States,2024,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.69380188
+BGD,Bangladesh,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.049
+BGD,Bangladesh,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.836
+BGD,Bangladesh,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.591
+BGD,Bangladesh,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.288
+BGD,Bangladesh,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.912
+BGD,Bangladesh,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.509
+BGD,Bangladesh,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.048
+BGD,Bangladesh,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.458
+BGD,Bangladesh,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.047
+BGD,Bangladesh,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.527
+BGD,Bangladesh,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.009
+BGD,Bangladesh,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.499
+BGD,Bangladesh,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.989
+BGD,Bangladesh,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.487
+BGD,Bangladesh,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.016
+BGD,Bangladesh,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.543
+BGD,Bangladesh,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.075
+BGD,Bangladesh,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.606
+BGD,Bangladesh,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.122
+BGD,Bangladesh,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.625
+BGD,Bangladesh,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.421
+BGD,Bangladesh,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.103
+BGD,Bangladesh,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.265
+BGD,Bangladesh,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.672
+BGD,Bangladesh,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.93
+BRA,Brazil,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.584
+BRA,Brazil,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.98
+BRA,Brazil,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.396
+BRA,Brazil,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.884
+BRA,Brazil,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.361
+BRA,Brazil,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.832
+BRA,Brazil,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.296
+BRA,Brazil,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.73
+BRA,Brazil,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.111
+BRA,Brazil,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.457
+BRA,Brazil,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.779
+BRA,Brazil,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.047
+BRA,Brazil,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.335
+BRA,Brazil,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.609
+BRA,Brazil,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.823
+BRA,Brazil,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.106
+BRA,Brazil,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.081
+BRA,Brazil,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.383
+BRA,Brazil,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.633
+BRA,Brazil,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.809
+BRA,Brazil,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.506
+BRA,Brazil,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.038
+BRA,Brazil,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.872
+BRA,Brazil,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.848
+BRA,Brazil,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.023
+CHN,China,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.288
+CHN,China,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.675
+CHN,China,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.034
+CHN,China,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.385
+CHN,China,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.727
+CHN,China,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.085
+CHN,China,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.404
+CHN,China,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.789
+CHN,China,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.833
+CHN,China,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.317
+CHN,China,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.668
+CHN,China,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.889
+CHN,China,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.2
+CHN,China,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.452
+CHN,China,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.714
+CHN,China,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.975
+CHN,China,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.214
+CHN,China,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.235
+CHN,China,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.709
+CHN,China,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.94
+CHN,China,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.019
+CHN,China,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.117
+CHN,China,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.202
+CHN,China,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.953
+CHN,China,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.017
+DEU,Germany,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.9268292682927
+DEU,Germany,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.3292682926829
+DEU,Germany,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.2292682926829
+DEU,Germany,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.3804878048781
+DEU,Germany,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.6804878048781
+DEU,Germany,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.9317073170732
+DEU,Germany,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.1317073170732
+DEU,Germany,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.5341463414634
+DEU,Germany,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.7365853658537
+DEU,Germany,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.8365853658537
+DEU,Germany,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.9878048780488
+DEU,Germany,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.4365853658537
+DEU,Germany,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.5390243902439
+DEU,Germany,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.490243902439
+DEU,Germany,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.090243902439
+DEU,Germany,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.6414634146341
+DEU,Germany,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.990243902439
+DEU,Germany,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.9926829268293
+DEU,Germany,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.8926829268293
+DEU,Germany,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.2926829268293
+DEU,Germany,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.0414634146342
+DEU,Germany,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.790243902439
+DEU,Germany,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.6080487804878
+DEU,Germany,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.0414634146342
+DEU,Germany,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.7926829268293
+IND,India,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.749
+IND,India,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.158
+IND,India,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.649
+IND,India,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.086
+IND,India,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.484
+IND,India,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.939
+IND,India,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.373
+IND,India,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.803
+IND,India,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.247
+IND,India,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.7
+IND,India,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.162
+IND,India,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.623
+IND,India,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.076
+IND,India,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.499
+IND,India,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.932
+IND,India,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.326
+IND,India,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.709
+IND,India,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.068
+IND,India,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.415
+IND,India,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.746
+IND,India,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.156
+IND,India,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.282
+IND,India,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.698
+IND,India,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.003
+IND,India,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.235
+IDN,Indonesia,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.292
+IDN,Indonesia,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.583
+IDN,Indonesia,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.954
+IDN,Indonesia,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.134
+IDN,Indonesia,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.521
+IDN,Indonesia,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.531
+IDN,Indonesia,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.664
+IDN,Indonesia,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.914
+IDN,Indonesia,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.085
+IDN,Indonesia,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.267
+IDN,Indonesia,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.364
+IDN,Indonesia,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.629
+IDN,Indonesia,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.862
+IDN,Indonesia,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.064
+IDN,Indonesia,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.292
+IDN,Indonesia,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.52
+IDN,Indonesia,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.733
+IDN,Indonesia,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.953
+IDN,Indonesia,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.08
+IDN,Indonesia,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.349
+IDN,Indonesia,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.817
+IDN,Indonesia,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.452
+IDN,Indonesia,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.925
+IDN,Indonesia,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.146
+IDN,Indonesia,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.288
+JPN,Japan,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.0760975609756
+JPN,Japan,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.4163414634146
+JPN,Japan,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.6907317073171
+JPN,Japan,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.76
+JPN,Japan,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.030243902439
+JPN,Japan,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.9551219512195
+JPN,Japan,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.3219512195122
+JPN,Japan,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.5070731707317
+JPN,Japan,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.5875609756098
+JPN,Japan,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.9314634146342
+JPN,Japan,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.8426829268293
+JPN,Japan,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.5912195121951
+JPN,Japan,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.0960975609756
+JPN,Japan,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.3319512195122
+JPN,Japan,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.5878048780488
+JPN,Japan,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.7939024390244
+JPN,Japan,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.9848780487805
+JPN,Japan,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.099756097561
+JPN,Japan,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.2109756097561
+JPN,Japan,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.3563414634146
+JPN,Japan,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.56
+JPN,Japan,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.4456097560976
+JPN,Japan,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.9963414634146
+JPN,Japan,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.0412195121951
+JPN,Japan,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,84.0363414634146
+USA,United States,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.6365853658537
+USA,United States,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.8365853658537
+USA,United States,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.9365853658537
+USA,United States,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.0365853658537
+USA,United States,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4878048780488
+USA,United States,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4878048780488
+USA,United States,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.6878048780488
+USA,United States,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.9878048780488
+USA,United States,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.0390243902439
+USA,United States,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.390243902439
+USA,United States,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.5414634146342
+USA,United States,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.6414634146341
+USA,United States,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.7414634146342
+USA,United States,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.7414634146342
+USA,United States,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.8414634146341
+USA,United States,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.690243902439
+USA,United States,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.5390243902439
+USA,United States,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.5390243902439
+USA,United States,2018,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.6390243902439
+USA,United States,2019,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.7878048780488
+USA,United States,2020,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.9804878048781
+USA,United States,2021,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.3292682926829
+USA,United States,2022,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.4341463414634
+USA,United States,2023,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.3853658536585
+USA,United States,2024,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.890243902439
+BGD,Bangladesh,2000,"Population, total",SP.POP.TOTL,134544304.0
+BGD,Bangladesh,2001,"Population, total",SP.POP.TOTL,136805810.0
+BGD,Bangladesh,2002,"Population, total",SP.POP.TOTL,138933658.0
+BGD,Bangladesh,2003,"Population, total",SP.POP.TOTL,140970351.0
+BGD,Bangladesh,2004,"Population, total",SP.POP.TOTL,142902856.0
+BGD,Bangladesh,2005,"Population, total",SP.POP.TOTL,144715786.0
+BGD,Bangladesh,2006,"Population, total",SP.POP.TOTL,146405973.0
+BGD,Bangladesh,2007,"Population, total",SP.POP.TOTL,147989278.0
+BGD,Bangladesh,2008,"Population, total",SP.POP.TOTL,149474264.0
+BGD,Bangladesh,2009,"Population, total",SP.POP.TOTL,150873714.0
+BGD,Bangladesh,2010,"Population, total",SP.POP.TOTL,152201981.0
+BGD,Bangladesh,2011,"Population, total",SP.POP.TOTL,153591076.0
+BGD,Bangladesh,2012,"Population, total",SP.POP.TOTL,155070101.0
+BGD,Bangladesh,2013,"Population, total",SP.POP.TOTL,156532141.0
+BGD,Bangladesh,2014,"Population, total",SP.POP.TOTL,157964929.0
+BGD,Bangladesh,2015,"Population, total",SP.POP.TOTL,159383179.0
+BGD,Bangladesh,2016,"Population, total",SP.POP.TOTL,160811932.0
+BGD,Bangladesh,2017,"Population, total",SP.POP.TOTL,162186147.0
+BGD,Bangladesh,2018,"Population, total",SP.POP.TOTL,163523103.0
+BGD,Bangladesh,2019,"Population, total",SP.POP.TOTL,164913055.0
+BGD,Bangladesh,2020,"Population, total",SP.POP.TOTL,166298024.0
+BGD,Bangladesh,2021,"Population, total",SP.POP.TOTL,167658854.0
+BGD,Bangladesh,2022,"Population, total",SP.POP.TOTL,169384897.0
+BGD,Bangladesh,2023,"Population, total",SP.POP.TOTL,171466990.0
+BGD,Bangladesh,2024,"Population, total",SP.POP.TOTL,173562364.0
+BGD,Bangladesh,2025,"Population, total",SP.POP.TOTL,175686899.0
+BRA,Brazil,2000,"Population, total",SP.POP.TOTL,174018282.0
+BRA,Brazil,2001,"Population, total",SP.POP.TOTL,176301203.0
+BRA,Brazil,2002,"Population, total",SP.POP.TOTL,178503484.0
+BRA,Brazil,2003,"Population, total",SP.POP.TOTL,180622688.0
+BRA,Brazil,2004,"Population, total",SP.POP.TOTL,182675143.0
+BRA,Brazil,2005,"Population, total",SP.POP.TOTL,184688101.0
+BRA,Brazil,2006,"Population, total",SP.POP.TOTL,186653106.0
+BRA,Brazil,2007,"Population, total",SP.POP.TOTL,188552320.0
+BRA,Brazil,2008,"Population, total",SP.POP.TOTL,190367302.0
+BRA,Brazil,2009,"Population, total",SP.POP.TOTL,192079951.0
+BRA,Brazil,2010,"Population, total",SP.POP.TOTL,193701929.0
+BRA,Brazil,2011,"Population, total",SP.POP.TOTL,195284734.0
+BRA,Brazil,2012,"Population, total",SP.POP.TOTL,196876111.0
+BRA,Brazil,2013,"Population, total",SP.POP.TOTL,198478299.0
+BRA,Brazil,2014,"Population, total",SP.POP.TOTL,200085127.0
+BRA,Brazil,2015,"Population, total",SP.POP.TOTL,201675532.0
+BRA,Brazil,2016,"Population, total",SP.POP.TOTL,203218114.0
+BRA,Brazil,2017,"Population, total",SP.POP.TOTL,204703445.0
+BRA,Brazil,2018,"Population, total",SP.POP.TOTL,206107261.0
+BRA,Brazil,2019,"Population, total",SP.POP.TOTL,207455459.0
+BRA,Brazil,2020,"Population, total",SP.POP.TOTL,208660842.0
+BRA,Brazil,2021,"Population, total",SP.POP.TOTL,209550294.0
+BRA,Brazil,2022,"Population, total",SP.POP.TOTL,210306415.0
+BRA,Brazil,2023,"Population, total",SP.POP.TOTL,211140729.0
+BRA,Brazil,2024,"Population, total",SP.POP.TOTL,211998573.0
+BRA,Brazil,2025,"Population, total",SP.POP.TOTL,212812405.0
+CHN,China,2000,"Population, total",SP.POP.TOTL,1262645000.0
+CHN,China,2001,"Population, total",SP.POP.TOTL,1271850000.0
+CHN,China,2002,"Population, total",SP.POP.TOTL,1280400000.0
+CHN,China,2003,"Population, total",SP.POP.TOTL,1288400000.0
+CHN,China,2004,"Population, total",SP.POP.TOTL,1296075000.0
+CHN,China,2005,"Population, total",SP.POP.TOTL,1303720000.0
+CHN,China,2006,"Population, total",SP.POP.TOTL,1311020000.0
+CHN,China,2007,"Population, total",SP.POP.TOTL,1317885000.0
+CHN,China,2008,"Population, total",SP.POP.TOTL,1324655000.0
+CHN,China,2009,"Population, total",SP.POP.TOTL,1331260000.0
+CHN,China,2010,"Population, total",SP.POP.TOTL,1337705000.0
+CHN,China,2011,"Population, total",SP.POP.TOTL,1345035000.0
+CHN,China,2012,"Population, total",SP.POP.TOTL,1354190000.0
+CHN,China,2013,"Population, total",SP.POP.TOTL,1363240000.0
+CHN,China,2014,"Population, total",SP.POP.TOTL,1371860000.0
+CHN,China,2015,"Population, total",SP.POP.TOTL,1379860000.0
+CHN,China,2016,"Population, total",SP.POP.TOTL,1387790000.0
+CHN,China,2017,"Population, total",SP.POP.TOTL,1396215000.0
+CHN,China,2018,"Population, total",SP.POP.TOTL,1402760000.0
+CHN,China,2019,"Population, total",SP.POP.TOTL,1407745000.0
+CHN,China,2020,"Population, total",SP.POP.TOTL,1411100000.0
+CHN,China,2021,"Population, total",SP.POP.TOTL,1412360000.0
+CHN,China,2022,"Population, total",SP.POP.TOTL,1412175000.0
+CHN,China,2023,"Population, total",SP.POP.TOTL,1410710000.0
+CHN,China,2024,"Population, total",SP.POP.TOTL,1408975000.0
+CHN,China,2025,"Population, total",SP.POP.TOTL,1406585000.0
+DEU,Germany,2000,"Population, total",SP.POP.TOTL,82211508.0
+DEU,Germany,2001,"Population, total",SP.POP.TOTL,82349925.0
+DEU,Germany,2002,"Population, total",SP.POP.TOTL,82488495.0
+DEU,Germany,2003,"Population, total",SP.POP.TOTL,82534176.0
+DEU,Germany,2004,"Population, total",SP.POP.TOTL,82516260.0
+DEU,Germany,2005,"Population, total",SP.POP.TOTL,82469422.0
+DEU,Germany,2006,"Population, total",SP.POP.TOTL,82376451.0
+DEU,Germany,2007,"Population, total",SP.POP.TOTL,82266372.0
+DEU,Germany,2008,"Population, total",SP.POP.TOTL,82110097.0
+DEU,Germany,2009,"Population, total",SP.POP.TOTL,81902307.0
+DEU,Germany,2010,"Population, total",SP.POP.TOTL,81776930.0
+DEU,Germany,2011,"Population, total",SP.POP.TOTL,80274983.0
+DEU,Germany,2012,"Population, total",SP.POP.TOTL,80425823.0
+DEU,Germany,2013,"Population, total",SP.POP.TOTL,80645605.0
+DEU,Germany,2014,"Population, total",SP.POP.TOTL,80982500.0
+DEU,Germany,2015,"Population, total",SP.POP.TOTL,81686611.0
+DEU,Germany,2016,"Population, total",SP.POP.TOTL,82348669.0
+DEU,Germany,2017,"Population, total",SP.POP.TOTL,82657002.0
+DEU,Germany,2018,"Population, total",SP.POP.TOTL,82905782.0
+DEU,Germany,2019,"Population, total",SP.POP.TOTL,83092962.0
+DEU,Germany,2020,"Population, total",SP.POP.TOTL,83160871.0
+DEU,Germany,2021,"Population, total",SP.POP.TOTL,83196078.0
+DEU,Germany,2022,"Population, total",SP.POP.TOTL,83177813.0
+DEU,Germany,2023,"Population, total",SP.POP.TOTL,83287273.0
+DEU,Germany,2024,"Population, total",SP.POP.TOTL,83516593.0
+DEU,Germany,2025,"Population, total",SP.POP.TOTL,83491249.0
+IND,India,2000,"Population, total",SP.POP.TOTL,1057922733.0
+IND,India,2001,"Population, total",SP.POP.TOTL,1077898575.0
+IND,India,2002,"Population, total",SP.POP.TOTL,1097600380.0
+IND,India,2003,"Population, total",SP.POP.TOTL,1116803006.0
+IND,India,2004,"Population, total",SP.POP.TOTL,1135991513.0
+IND,India,2005,"Population, total",SP.POP.TOTL,1154676322.0
+IND,India,2006,"Population, total",SP.POP.TOTL,1172878890.0
+IND,India,2007,"Population, total",SP.POP.TOTL,1190676021.0
+IND,India,2008,"Population, total",SP.POP.TOTL,1207930964.0
+IND,India,2009,"Population, total",SP.POP.TOTL,1225524753.0
+IND,India,2010,"Population, total",SP.POP.TOTL,1243481564.0
+IND,India,2011,"Population, total",SP.POP.TOTL,1261224954.0
+IND,India,2012,"Population, total",SP.POP.TOTL,1278674502.0
+IND,India,2013,"Population, total",SP.POP.TOTL,1295829511.0
+IND,India,2014,"Population, total",SP.POP.TOTL,1312277191.0
+IND,India,2015,"Population, total",SP.POP.TOTL,1328024498.0
+IND,India,2016,"Population, total",SP.POP.TOTL,1343944296.0
+IND,India,2017,"Population, total",SP.POP.TOTL,1359657400.0
+IND,India,2018,"Population, total",SP.POP.TOTL,1374659064.0
+IND,India,2019,"Population, total",SP.POP.TOTL,1389030312.0
+IND,India,2020,"Population, total",SP.POP.TOTL,1402617695.0
+IND,India,2021,"Population, total",SP.POP.TOTL,1414203896.0
+IND,India,2022,"Population, total",SP.POP.TOTL,1425423212.0
+IND,India,2023,"Population, total",SP.POP.TOTL,1438069596.0
+IND,India,2024,"Population, total",SP.POP.TOTL,1450935791.0
+IND,India,2025,"Population, total",SP.POP.TOTL,1463865525.0
+IDN,Indonesia,2000,"Population, total",SP.POP.TOTL,216077790.0
+IDN,Indonesia,2001,"Population, total",SP.POP.TOTL,219097902.0
+IDN,Indonesia,2002,"Population, total",SP.POP.TOTL,222088495.0
+IDN,Indonesia,2003,"Population, total",SP.POP.TOTL,225048008.0
+IDN,Indonesia,2004,"Population, total",SP.POP.TOTL,227926649.0
+IDN,Indonesia,2005,"Population, total",SP.POP.TOTL,230871650.0
+IDN,Indonesia,2006,"Population, total",SP.POP.TOTL,233951652.0
+IDN,Indonesia,2007,"Population, total",SP.POP.TOTL,237062337.0
+IDN,Indonesia,2008,"Population, total",SP.POP.TOTL,240157903.0
+IDN,Indonesia,2009,"Population, total",SP.POP.TOTL,243220028.0
+IDN,Indonesia,2010,"Population, total",SP.POP.TOTL,246305322.0
+IDN,Indonesia,2011,"Population, total",SP.POP.TOTL,249470032.0
+IDN,Indonesia,2012,"Population, total",SP.POP.TOTL,252698525.0
+IDN,Indonesia,2013,"Population, total",SP.POP.TOTL,255852467.0
+IDN,Indonesia,2014,"Population, total",SP.POP.TOTL,258877399.0
+IDN,Indonesia,2015,"Population, total",SP.POP.TOTL,261799249.0
+IDN,Indonesia,2016,"Population, total",SP.POP.TOTL,264627418.0
+IDN,Indonesia,2017,"Population, total",SP.POP.TOTL,267346658.0
+IDN,Indonesia,2018,"Population, total",SP.POP.TOTL,269951846.0
+IDN,Indonesia,2019,"Population, total",SP.POP.TOTL,272489381.0
+IDN,Indonesia,2020,"Population, total",SP.POP.TOTL,274814866.0
+IDN,Indonesia,2021,"Population, total",SP.POP.TOTL,276758053.0
+IDN,Indonesia,2022,"Population, total",SP.POP.TOTL,278830529.0
+IDN,Indonesia,2023,"Population, total",SP.POP.TOTL,281190067.0
+IDN,Indonesia,2024,"Population, total",SP.POP.TOTL,283487931.0
+IDN,Indonesia,2025,"Population, total",SP.POP.TOTL,285721236.0
+JPN,Japan,2000,"Population, total",SP.POP.TOTL,126843000.0
+JPN,Japan,2001,"Population, total",SP.POP.TOTL,127149000.0
+JPN,Japan,2002,"Population, total",SP.POP.TOTL,127445000.0
+JPN,Japan,2003,"Population, total",SP.POP.TOTL,127718000.0
+JPN,Japan,2004,"Population, total",SP.POP.TOTL,127761000.0
+JPN,Japan,2005,"Population, total",SP.POP.TOTL,127773000.0
+JPN,Japan,2006,"Population, total",SP.POP.TOTL,127854000.0
+JPN,Japan,2007,"Population, total",SP.POP.TOTL,128001000.0
+JPN,Japan,2008,"Population, total",SP.POP.TOTL,128063000.0
+JPN,Japan,2009,"Population, total",SP.POP.TOTL,128047000.0
+JPN,Japan,2010,"Population, total",SP.POP.TOTL,128070000.0
+JPN,Japan,2011,"Population, total",SP.POP.TOTL,127833000.0
+JPN,Japan,2012,"Population, total",SP.POP.TOTL,127629000.0
+JPN,Japan,2013,"Population, total",SP.POP.TOTL,127445000.0
+JPN,Japan,2014,"Population, total",SP.POP.TOTL,127276000.0
+JPN,Japan,2015,"Population, total",SP.POP.TOTL,127141000.0
+JPN,Japan,2016,"Population, total",SP.POP.TOTL,127076000.0
+JPN,Japan,2017,"Population, total",SP.POP.TOTL,126972000.0
+JPN,Japan,2018,"Population, total",SP.POP.TOTL,126811000.0
+JPN,Japan,2019,"Population, total",SP.POP.TOTL,126633000.0
+JPN,Japan,2020,"Population, total",SP.POP.TOTL,126261000.0
+JPN,Japan,2021,"Population, total",SP.POP.TOTL,125681593.0
+JPN,Japan,2022,"Population, total",SP.POP.TOTL,125124989.0
+JPN,Japan,2023,"Population, total",SP.POP.TOTL,124516650.0
+JPN,Japan,2024,"Population, total",SP.POP.TOTL,123975371.0
+JPN,Japan,2025,"Population, total",SP.POP.TOTL,123366734.0
+USA,United States,2000,"Population, total",SP.POP.TOTL,282162411.0
+USA,United States,2001,"Population, total",SP.POP.TOTL,284968955.0
+USA,United States,2002,"Population, total",SP.POP.TOTL,287625193.0
+USA,United States,2003,"Population, total",SP.POP.TOTL,290107933.0
+USA,United States,2004,"Population, total",SP.POP.TOTL,292805298.0
+USA,United States,2005,"Population, total",SP.POP.TOTL,295516599.0
+USA,United States,2006,"Population, total",SP.POP.TOTL,298379912.0
+USA,United States,2007,"Population, total",SP.POP.TOTL,301231207.0
+USA,United States,2008,"Population, total",SP.POP.TOTL,304093966.0
+USA,United States,2009,"Population, total",SP.POP.TOTL,306771529.0
+USA,United States,2010,"Population, total",SP.POP.TOTL,309378227.0
+USA,United States,2011,"Population, total",SP.POP.TOTL,311839461.0
+USA,United States,2012,"Population, total",SP.POP.TOTL,314339099.0
+USA,United States,2013,"Population, total",SP.POP.TOTL,316726282.0
+USA,United States,2014,"Population, total",SP.POP.TOTL,319257560.0
+USA,United States,2015,"Population, total",SP.POP.TOTL,321815121.0
+USA,United States,2016,"Population, total",SP.POP.TOTL,324353340.0
+USA,United States,2017,"Population, total",SP.POP.TOTL,326608609.0
+USA,United States,2018,"Population, total",SP.POP.TOTL,328529577.0
+USA,United States,2019,"Population, total",SP.POP.TOTL,330226227.0
+USA,United States,2020,"Population, total",SP.POP.TOTL,331578104.0
+USA,United States,2021,"Population, total",SP.POP.TOTL,332100166.0
+USA,United States,2022,"Population, total",SP.POP.TOTL,333996304.0
+USA,United States,2023,"Population, total",SP.POP.TOTL,336755052.0
+USA,United States,2024,"Population, total",SP.POP.TOTL,340003797.0
+USA,United States,2025,"Population, total",SP.POP.TOTL,341784857.0
+BGD,Bangladesh,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.27
+BGD,Bangladesh,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.609
+BGD,Bangladesh,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.966
+BGD,Bangladesh,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.32
+BGD,Bangladesh,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.316
+BGD,Bangladesh,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.25
+BGD,Bangladesh,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.591
+BGD,Bangladesh,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.015
+BGD,Bangladesh,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.49
+BGD,Bangladesh,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.0
+BGD,Bangladesh,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.379
+BGD,Bangladesh,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.737
+BGD,Bangladesh,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.07
+BGD,Bangladesh,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.426
+BGD,Bangladesh,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.417
+BGD,Bangladesh,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.397
+BGD,Bangladesh,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.35
+BGD,Bangladesh,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.372
+BGD,Bangladesh,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.439
+BGD,Bangladesh,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.504
+BGD,Bangladesh,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.539
+BGD,Bangladesh,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.457
+BGD,Bangladesh,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.593
+BGD,Bangladesh,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.352
+BGD,Bangladesh,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.635
+BGD,Bangladesh,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.778
+BRA,Brazil,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.889
+BRA,Brazil,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.649
+BRA,Brazil,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.641
+BRA,Brazil,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,11.168
+BRA,Brazil,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.072
+BRA,Brazil,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.551
+BRA,Brazil,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.692
+BRA,Brazil,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.28
+BRA,Brazil,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.268
+BRA,Brazil,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.419
+BRA,Brazil,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.42
+BRA,Brazil,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.578
+BRA,Brazil,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.251
+BRA,Brazil,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.071
+BRA,Brazil,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.755
+BRA,Brazil,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.538
+BRA,Brazil,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,11.58
+BRA,Brazil,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,12.792
+BRA,Brazil,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,12.329
+BRA,Brazil,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,11.936
+BRA,Brazil,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,13.697
+BRA,Brazil,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,13.158
+BRA,Brazil,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.231
+BRA,Brazil,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.947
+BRA,Brazil,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.801
+BRA,Brazil,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.97
+CHN,China,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.26
+CHN,China,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.8
+CHN,China,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.24
+CHN,China,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.58
+CHN,China,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.49
+CHN,China,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.52
+CHN,China,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.43
+CHN,China,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.35
+CHN,China,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.59
+CHN,China,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.72
+CHN,China,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.53
+CHN,China,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.55
+CHN,China,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.58
+CHN,China,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.6
+CHN,China,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.63
+CHN,China,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.65
+CHN,China,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.56
+CHN,China,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.47
+CHN,China,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.31
+CHN,China,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.56
+CHN,China,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.0
+CHN,China,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.55
+CHN,China,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.98
+CHN,China,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.67
+CHN,China,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.59
+CHN,China,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.615
+DEU,Germany,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.917
+DEU,Germany,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.773
+DEU,Germany,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.482
+DEU,Germany,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.779
+DEU,Germany,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.727
+DEU,Germany,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,11.193
+DEU,Germany,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,10.277
+DEU,Germany,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.732
+DEU,Germany,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.508
+DEU,Germany,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.88
+DEU,Germany,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.043
+DEU,Germany,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.967
+DEU,Germany,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.372
+DEU,Germany,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.316
+DEU,Germany,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.979
+DEU,Germany,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.612
+DEU,Germany,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.104
+DEU,Germany,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.781
+DEU,Germany,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.384
+DEU,Germany,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.163
+DEU,Germany,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.881
+DEU,Germany,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.594
+DEU,Germany,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.137
+DEU,Germany,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.071
+DEU,Germany,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.4
+DEU,Germany,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.711
+IND,India,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.589
+IND,India,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.611
+IND,India,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.681
+IND,India,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.633
+IND,India,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.598
+IND,India,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.551
+IND,India,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.553
+IND,India,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.562
+IND,India,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.629
+IND,India,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.636
+IND,India,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.631
+IND,India,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.609
+IND,India,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.645
+IND,India,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.678
+IND,India,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.656
+IND,India,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.629
+IND,India,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.611
+IND,India,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.626
+IND,India,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.652
+IND,India,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.51
+IND,India,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.859
+IND,India,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.38
+IND,India,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.822
+IND,India,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.172
+IND,India,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.173
+IND,India,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.219
+IDN,Indonesia,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.077
+IDN,Indonesia,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.082
+IDN,Indonesia,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.604
+IDN,Indonesia,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.657
+IDN,Indonesia,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.303
+IDN,Indonesia,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.945
+IDN,Indonesia,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.551
+IDN,Indonesia,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.06
+IDN,Indonesia,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.208
+IDN,Indonesia,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.106
+IDN,Indonesia,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.614
+IDN,Indonesia,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.153
+IDN,Indonesia,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.468
+IDN,Indonesia,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.336
+IDN,Indonesia,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.049
+IDN,Indonesia,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.514
+IDN,Indonesia,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.301
+IDN,Indonesia,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.783
+IDN,Indonesia,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.387
+IDN,Indonesia,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.59
+IDN,Indonesia,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.255
+IDN,Indonesia,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.827
+IDN,Indonesia,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.462
+IDN,Indonesia,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.308
+IDN,Indonesia,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.301
+IDN,Indonesia,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.237
+JPN,Japan,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.748
+JPN,Japan,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.02
+JPN,Japan,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.386
+JPN,Japan,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.251
+JPN,Japan,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.734
+JPN,Japan,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.446
+JPN,Japan,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.192
+JPN,Japan,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.888
+JPN,Japan,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.002
+JPN,Japan,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.068
+JPN,Japan,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.102
+JPN,Japan,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.55
+JPN,Japan,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.358
+JPN,Japan,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.038
+JPN,Japan,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.589
+JPN,Japan,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.385
+JPN,Japan,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.132
+JPN,Japan,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.822
+JPN,Japan,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.467
+JPN,Japan,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.351
+JPN,Japan,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.809
+JPN,Japan,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.808
+JPN,Japan,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.614
+JPN,Japan,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.6
+JPN,Japan,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.5
+JPN,Japan,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,2.451
+USA,United States,2000,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.992
+USA,United States,2001,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.731
+USA,United States,2002,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.783
+USA,United States,2003,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.989
+USA,United States,2004,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.529
+USA,United States,2005,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.084
+USA,United States,2006,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.623
+USA,United States,2007,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.622
+USA,United States,2008,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.784
+USA,United States,2009,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.254
+USA,United States,2010,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,9.633
+USA,United States,2011,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.949
+USA,United States,2012,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.069
+USA,United States,2013,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,7.375
+USA,United States,2014,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,6.168
+USA,United States,2015,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.28
+USA,United States,2016,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.869
+USA,United States,2017,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.355
+USA,United States,2018,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.896
+USA,United States,2019,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.669
+USA,United States,2020,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,8.055
+USA,United States,2021,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,5.349
+USA,United States,2022,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.65
+USA,United States,2023,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,3.638
+USA,United States,2024,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.022
+USA,United States,2025,"Unemployment, total (% of labor force)",SL.UEM.TOTL.ZS,4.198
